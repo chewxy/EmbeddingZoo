@@ -14,3 +14,8 @@ GloVe Twitter 27B | 25, 50, 100, 200 | As Above | As Above | [Here](http://nlp.s
 Word2Vec Google News | 300 | Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean | [Efficient Estimation of Word Representation in Vector Spaces](http://arxiv.org/pdf/1301.3781.pdf) | [Here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing) | 1.5 GB | ???? | Skipgram + negative sampling | Common stop words have been removed. Your model may act weirdly
 Word2Vec FreeBase | 1000 | Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean | [Efficient Estimation of Word Representation in Vector Spaces](http://arxiv.org/pdf/1301.3781.pdf) | [Here](https://docs.google.com/file/d/0B7XkCwpI5KDYaDBDQm1tZGNDRHc/edit?usp=sharing) | 2.3 GB | ???? | Skipgram + negative sampling | This is the embeddings for entities, not words.
 Dependency Based Word Embeddings | 300 | Omer Levy and Yoav Goldberg |[Dependency Bsaed Word Embeddings](http://levyomer.files.wordpress.com/2014/04/dependency-based-word-embeddings-acl-2014.pdf) | [Here](http://u.cs.biu.ac.il/~yogo/data/syntemb/deps.words.bz2) | 306 MB | ???????? | Dependency Tree as context | |
+
+
+# TODO: #
+
+Dhillon's Eigen words
